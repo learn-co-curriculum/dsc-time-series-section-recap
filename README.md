@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 25 and why they'll be important to you as a data scientist.
+This short lesson summarizes the topics we covered in section 31 and why they'll be important to you as a data scientist.
 
 ## Objectives
 You will be able to:
