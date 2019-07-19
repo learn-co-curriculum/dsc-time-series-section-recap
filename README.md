@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 31 and why they'll be important to you as a data scientist.
+In this section, you learned about working with time series data and why it is important to you as a data scientist.
 
 ## Objectives
 You will be able to:
